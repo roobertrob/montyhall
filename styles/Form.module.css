@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  
+}
+.link {
+  display: flex;
+  flex: 1;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  cursor: pointer;
+}
+
+.form > div{
+  display: flex;
+}
+
